@@ -29,6 +29,53 @@ VS Code • IntelliJ IDEA • Eclipse • Android Studio • XAMPP
 
 ## 🚀 Projects
 
+## 📘 BeeWise – E-Learning Platform
+
+BeeWise est une plateforme e-learning où des enseignants certifiés peuvent publier leurs cours et où les étudiants peuvent apprendre à leur rythme tout en suivant leur progression.
+
+### ✨ Fonctionnalités
+- Espace enseignants : ajout, gestion et publication de cours.
+- Espace étudiants : accès aux cours selon catégories.
+- Système de suivi de progression (cours commencés, en cours, terminés).
+- Interface intuitive pour faciliter la navigation.
+
+### 🛠 Technologies utilisées
+HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+## 💰 Budget Manager App – Application de Gestion Budgétaire (Java)
+
+Application de bureau permettant aux utilisateurs de gérer facilement leurs dépenses et revenus tout en calculant automatiquement leur budget quotidien et mensuel.
+
+### ✨ Fonctionnalités
+- Ajout et gestion des dépenses et revenus.
+- Calcul automatique du budget journalier et mensuel.
+- Détection si le budget prévu est dépassé.
+- Prise en compte du salaire mensuel et des revenus supplémentaires.
+- Interface Swing simple et fonctionnelle.
+- Stockage des données avec MySQL.
+
+### 🛠 Technologies utilisées
+Java • Swing • JDBC • MySQL
+
+---
+
+## 🧠 Alzheimer Support App – Digital Health Challenge (Prototype)
+
+Application mobile conçue pour aider les personnes atteintes d’Alzheimer à mieux gérer leur quotidien, à stimuler leurs capacités cognitives et à permettre aux aidants de suivre leur état et leurs habitudes.  
+Le projet a été développé dans le cadre du **Digital Health Challenge**.
+
+### ✨ Fonctionnalités
+- 📅 Rappel des tâches quotidiennes pour aider les utilisateurs à se repérer.
+- 🧩 Exercices de stimulation cognitive (mémoire, attention, logique).
+- 🧑‍⚕️ Espace aidant pour suivre l’évolution et la régularité des activités.
+- 🤖 Chatbot en dialecte tunisien pour accompagner, rassurer et discuter avec les utilisateurs.
+- 🔄 Interface simple, accessible et pensée pour les personnes âgées.
+- *(Projet toujours en cours de développement)*
+
+### 🛠 Technologies utilisées
+HTML • CSS • JavaScript • PHP • MySQL  
 
 ---
 
