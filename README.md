@@ -9,7 +9,6 @@ Looking for a PFE internship 2025–2026. Focus: mobile apps, simple UI/UX, and 
 I’m Asma Ameur, a 3rd-year CS student (Multimedia). I enjoy building clean, user-focused apps and learning new technologies.
 
 **Contact:** asmaameur80@gmail.com 
-**CV ** `/mnt/data/CVAsmaAmeur.pdf`
 
 ---
 ### 🛠 Tech Stack
